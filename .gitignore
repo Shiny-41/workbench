@@ -1,0 +1,18 @@
+# 服务端遗留（纯前端版不再需要）
+server.py
+start.bat
+__pycache__/
+*.pyc
+access.json
+ai_config.json
+
+# 本地数据（已迁到 GitHub 私有仓库，不入库）
+data/
+uploads/
+
+# 迁移配置（含 Token，切勿入库）
+migrate_config.json
+
+# 系统
+.DS_Store
+Thumbs.db
