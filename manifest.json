@@ -1,0 +1,13 @@
+{
+  "name": "41的工作台",
+  "short_name": "工作台",
+  "description": "BJD与眼镜双线业务 + 学习 + 生活 一体化个人工作台",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F3F0EB",
+  "theme_color": "#96A48B",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}
